@@ -40,7 +40,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | Done | # | Problem | Difficulty |
 |:---:|---:|---|---|
 | [x] | 217 | [Contains Duplicate](01-arrays-hashing/0217_contains_duplicate.py) | Easy |
-| [ ] | 242 | Valid Anagram | Easy |
+| [x] | 242 | [Valid Anagram](01-arrays-hashing/0242_valid_anagram.py) | Easy |
 | [ ] | 1 | Two Sum | Easy |
 | [ ] | 49 | Group Anagrams | Medium |
 | [ ] | 347 | Top K Frequent Elements | Medium |
