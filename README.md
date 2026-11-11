@@ -58,7 +58,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | [ ] | 125 | Valid Palindrome | Easy |
 | [ ] | 167 | Two Sum II - Input Array Is Sorted | Medium |
 | [ ] | 15 | 3Sum | Medium |
-| [ ] | 11 | Container With Most Water | Medium |
+| [x] | 11 | [Container With Most Water](02-two-pointers/0011_container_with_most_water.py) | Medium |
 | [ ] | 42 | Trapping Rain Water | Hard |
 
 ### 03-sliding-window
