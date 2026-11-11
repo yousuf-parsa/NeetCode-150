@@ -45,7 +45,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | [x] | 49 | [Group Anagrams](01-arrays-hashing/0049_group_anagrams.py) | Medium |
 | [x] | 347 | [Top K Frequent Elements](01-arrays-hashing/0347_top_k_frequent_elements.py) | Medium |
 | [ ] | 271 | Encode and Decode Strings | Medium |
-| [ ] | 238 | Product of Array Except Self | Medium |
+| [x] | 238 | [Product of Array Except Self](01-arrays-hashing/0238_product_of_array_except_self.py) | Medium |
 | [ ] | 36 | Valid Sudoku | Medium |
 | [ ] | 128 | Longest Consecutive Sequence | Medium |
 
