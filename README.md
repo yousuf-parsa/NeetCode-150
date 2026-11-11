@@ -67,7 +67,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 
 | Done | # | Problem | Difficulty |
 |:---:|---:|---|---|
-| [ ] | 121 | Best Time to Buy and Sell Stock | Easy |
+| [x] | 121 | [Best Time to Buy and Sell Stock](03-sliding-window/0121_best_time_to_buy_and_sell_stock.py) | Easy |
 | [x] | 3 | [Longest Substring Without Repeating Characters](03-sliding-window/0003_longest_substring_without_repeating_characters.py) | Medium |
 | [ ] | 424 | Longest Repeating Character Replacement | Medium |
 | [ ] | 567 | Permutation in String | Medium |
