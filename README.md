@@ -47,7 +47,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | [ ] | 271 | Encode and Decode Strings | Medium |
 | [x] | 238 | [Product of Array Except Self](01-arrays-hashing/0238_product_of_array_except_self.py) | Medium |
 | [ ] | 36 | Valid Sudoku | Medium |
-| [ ] | 128 | Longest Consecutive Sequence | Medium |
+| [x] | 128 | [Longest Consecutive Sequence](01-arrays-hashing/0128_longest_consecutive_sequence.py) | Medium |
 
 ### 02-two-pointers
 
