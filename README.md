@@ -39,7 +39,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 
 | Done | # | Problem | Difficulty |
 |:---:|---:|---|---|
-| [ ] | 217 | Contains Duplicate | Easy |
+| [x] | 217 | [Contains Duplicate](01-arrays-hashing/0217_contains_duplicate.py) | Easy |
 | [ ] | 242 | Valid Anagram | Easy |
 | [ ] | 1 | Two Sum | Easy |
 | [ ] | 49 | Group Anagrams | Medium |
