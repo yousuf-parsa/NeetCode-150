@@ -204,23 +204,6 @@ def table(rows, link_prefix=""):
     return "\n".join(lines)
 
 
-EXAMPLE = '''"""
-LeetCode 1. Two Sum
-https://leetcode.com/problems/two-sum/
-Difficulty: Easy
-
-Intuition:
-    For every number, I need its partner: target - n.
-    Searching the list again for it is slow.
-    So I remember every number I've seen in a dict (number -> index).
-    If the partner is already in the dict, that's the pair.
-
-Complexity:
-    Time:  O(n)  - one pass
-    Space: O(n)  - the dict
-"""'''
-
-
 def readme(cats):
     solved = sum(c["done"] for c in cats)
     total = sum(len(c["rows"]) for c in cats)
@@ -249,19 +232,6 @@ def readme(cats):
         "</p>",
         "",
         f'**{solved} of {total} solved.** {", ".join(by_diff)}.',
-        "",
-        "## What a solution looks like",
-        "",
-        "Each file opens with the idea behind the solution and its cost, then the code, then a few tests. "
-        "Run any file on its own to check it:",
-        "",
-        "```bash",
-        "python 01-arrays-hashing/0001_two_sum.py",
-        "```",
-        "",
-        "```python",
-        EXAMPLE,
-        "```",
         "",
         "## The problems",
         "",
