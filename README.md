@@ -59,7 +59,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | [ ] | 167 | Two Sum II - Input Array Is Sorted | Medium |
 | [x] | 15 | [3Sum](02-two-pointers/0015_3sum.py) | Medium |
 | [x] | 11 | [Container With Most Water](02-two-pointers/0011_container_with_most_water.py) | Medium |
-| [ ] | 42 | Trapping Rain Water | Hard |
+| [x] | 42 | [Trapping Rain Water](02-two-pointers/0042_trapping_rain_water.py) | Hard |
 
 ### 03-sliding-window
 
