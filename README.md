@@ -68,7 +68,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 | Done | # | Problem | Difficulty |
 |:---:|---:|---|---|
 | [ ] | 121 | Best Time to Buy and Sell Stock | Easy |
-| [ ] | 3 | Longest Substring Without Repeating Characters | Medium |
+| [x] | 3 | [Longest Substring Without Repeating Characters](03-sliding-window/0003_longest_substring_without_repeating_characters.py) | Medium |
 | [ ] | 424 | Longest Repeating Character Replacement | Medium |
 | [ ] | 567 | Permutation in String | Medium |
 | [ ] | 76 | Minimum Window Substring | Hard |
