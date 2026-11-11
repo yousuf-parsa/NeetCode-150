@@ -3,23 +3,22 @@ LeetCode <number>. <Title>
 https://leetcode.com/problems/<slug>/
 Difficulty: <Easy | Medium | Hard>
 
-Approach:
-    <one or two lines on the key idea / pattern>
+Intuition:
+    <2-5 short lines, in plain words: why the obvious way is slow,
+    and what I do instead>
 
 Complexity:
-    Time:  O(?)
-    Space: O(?)
+    Time:  O(?)  - <short reason>
+    Space: O(?)  - <short reason>
 """
-
-from typing import List
 
 
 class Solution:
-    def solve(self, nums: List[int]) -> int:
+    def solve(self, nums: list[int]) -> int:
         pass
 
 
 if __name__ == "__main__":
-    s = Solution()
-    assert s.solve([]) is None  # replace with real test cases
+    sol = Solution()
+    assert sol.solve([]) is None  # replace with real test cases
     print("All tests passed.")
