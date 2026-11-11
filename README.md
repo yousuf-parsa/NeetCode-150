@@ -55,7 +55,7 @@ My Python solutions to the [NeetCode 150](https://neetcode.io/practice) problem 
 
 | Done | # | Problem | Difficulty |
 |:---:|---:|---|---|
-| [ ] | 125 | Valid Palindrome | Easy |
+| [x] | 125 | [Valid Palindrome](02-two-pointers/0125_valid_palindrome.py) | Easy |
 | [ ] | 167 | Two Sum II - Input Array Is Sorted | Medium |
 | [x] | 15 | [3Sum](02-two-pointers/0015_3sum.py) | Medium |
 | [x] | 11 | [Container With Most Water](02-two-pointers/0011_container_with_most_water.py) | Medium |
